@@ -1,0 +1,23 @@
+{
+  "name": "AM50288H",
+  "description": "A 14 segment LCD display library for Arduino",
+  "keywords": "lcd, display",
+  "authors":
+  {
+    "name": "Hideki Hamada",
+    "email": "jakalada.net@gmail.com"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jakalada/Arduino-AM50288H.git"
+  },
+  "version": "0.0.1",
+  "url": "https://github.com/jakalada/Arduino-AM50288H",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "espressif"
+  ]
+}

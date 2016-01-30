@@ -1,0 +1,20 @@
+language: python
+python:
+  - "2.7"
+
+sudo: false
+cache:
+  directories:
+    - "~/.platformio"
+
+env:
+  - PLATFORMIO_CI_SRC=examples/BlinkDisplay
+  - PLATFORMIO_CI_SRC=examples/SegmentTest
+  - PLATFORMIO_CI_SRC=examples/ShowCustomSegment
+  - PLATFORMIO_CI_SRC=examples/ShowMark
+
+install:
+  - pip install -U platformio
+
+script:
+  - platformio ci --lib="." --project-conf=platformio.ini

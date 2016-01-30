@@ -1,0 +1,15 @@
+# KEYWORD1 specifies datatypes
+
+AM50288H	KEYWORD1
+
+# KEYWORD2 specifies methods and functions
+
+begin	KEYWORD2
+refresh	KEYWORD2
+clear	KEYWORD2
+setAllBit	KEYWORD2
+setAllBit	KEYWORD2
+setMarkBit	KEYWORD2
+setSegmentBits	KEYWORD2
+clearSegmentBits	KEYWORD2
+

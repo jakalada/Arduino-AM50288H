@@ -8,7 +8,7 @@
 
 下記のリンクからファイルをダウンロードして、Arduino IDEにライブラリとして追加してください。
 
-[download zip file](https://github.com/jakalada/Arduino-AM50288H/archive/master.zip)
+[Download the latest library release.](https://github.com/jakalada/Arduino-AM50288H/releases/latest)
 
 ## 使用方法
 
